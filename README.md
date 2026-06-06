@@ -33,22 +33,26 @@ track.csv (10.6 MB)   ─┘
 ---
  
 ## Screenshots
- 
-### S3 Data Upload<img width="1877" height="757" alt="Screenshot 2026-06-06 091029" src="https://github.com/user-attachments/assets/ce4ba281-a1cc-46b9-a5e9-1bc802baec32" />
+
 
 ![S3 Upload](screenshots/s3-upload.png)
  
 ### Glue ETL Pipeline
-![Glue Pipeline](screenshots/glue-pipeline.png)
+<img width="1907" height="808" alt="Screenshot 2026-06-06 092946" src="https://github.com/user-attachments/assets/3ef5dd88-9e0b-402e-a710-449319c4d4df" />
+
  
 ### Athena SQL Query Results
-![Athena Query](screenshots/athena-query.png)
+<img width="1882" height="812" alt="Screenshot 2026-06-06 172638" src="https://github.com/user-attachments/assets/5aab1cc8-eb2c-4fed-867f-a0dc4d6c6d25" />
  
 ### QuickSight Dashboard — Followers by Album
-![Dashboard 1](screenshots/quicksight-bar.png)
+ <img width="1906" height="832" alt="Screenshot 2026-06-06 202455" src="https://github.com/user-attachments/assets/d088c287-cd87-45db-b5c8-e919efbf6d7e" />
+
  
 ### QuickSight Dashboard — Genre Distribution (K-pop included)
-![Dashboard 2](screenshots/quicksight-donut.png)
+
+<img width="1897" height="882" alt="Screenshot 2026-06-06 200406" src="https://github.com/user-attachments/assets/4949a0c3-dba0-45f4-ac2c-dccaac42dd81" />
+<img width="1913" height="732" alt="Screenshot 2026-06-06 194859" src="https://github.com/user-attachments/assets/da13a874-1237-49a0-8343-1189b6968384" />
+<img width="1907" height="882" alt="Screenshot 2026-06-06 185428" src="https://github.com/user-attachments/assets/81fd9574-5438-474e-b74f-0553611a0e5a" />
  
 ---
  
