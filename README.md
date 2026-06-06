@@ -34,7 +34,8 @@ track.csv (10.6 MB)   ─┘
  
 ## Screenshots
  
-### S3 Data Upload
+### S3 Data Upload<img width="1877" height="757" alt="Screenshot 2026-06-06 091029" src="https://github.com/user-attachments/assets/ce4ba281-a1cc-46b9-a5e9-1bc802baec32" />
+
 ![S3 Upload](screenshots/s3-upload.png)
  
 ### Glue ETL Pipeline
